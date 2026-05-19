@@ -7,8 +7,8 @@ import Signup from './Featurs/Authentication/Signup'
 import Login from './Featurs/Authentication/login'
 import Load from './Load'
 import { Products } from './Featurs/Authentication/Products/Products'
-// import Login from "./Featurs/Authentication/login";
-// import Signup from "./Featurs/Authentication/signup";
+import Login from "./Featurs/Authentication/login";
+import Signup from "./Featurs/Authentication/signup";
 
 function App() {
   const [count, setCount] = useState(0)
